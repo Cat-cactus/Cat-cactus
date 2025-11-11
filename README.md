@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">Aspiring cybersecurity engineer and CTF enthusiast with Team Cyber'Zoo — this GitHub is my playground for personal projects,</h4>
+<h4 align="center">Aspiring cybersecurity engineer and CTF enthusiast with Team Red'Pawn — this GitHub is my playground for personal projects,</h4>
 
 ###
 
@@ -43,7 +43,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="40" alt="debian logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo"  />
 </div>
 
 ###
