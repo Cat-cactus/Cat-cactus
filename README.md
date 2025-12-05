@@ -48,16 +48,10 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IDA_Pro-4B0082?style=for-the-badge&logo=hexrays&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IDA-4B0082?style=for-the-badge&logo=hexrays&logoColor=white"/>
 </p>
 
 ---
-
-## `> cat ./activity.log`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cat-cactus&theme=github-dark-dimmed&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cat-cactus&theme=github_dark" alt="Profile Summary"/>
