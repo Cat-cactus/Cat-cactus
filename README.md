@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="./assets/cyber-avatar.gif" width="200" height="200" alt="Cyber Avatar"/>
+  <img src="./assets/cyber-banner.gif" width="450" alt="Cyber Banner"/>
 </p>
 
 <p align="center">
@@ -41,41 +41,26 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IDA_Pro-4B0082?style=for-the-badge&logo=hexrays&logoColor=white"/>
 </p>
 
 ---
 
 ## `> cat ./activity.log`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cat-cactus/cat-cactus/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cat-cactus/cat-cactus/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cat-cactus/cat-cactus/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-## `> cat ./projects.txt`
-
-| 📁 Repository | 📝 Description |
-|---------------|----------------|
-| [Write-ups](https://github.com/Cat-cactus/Write-ups) | 🔓 My CTF write-ups collection |
-
----
-
-## `> tail -f /var/log/quotes.log`
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cat-cactus&theme=github-dark-dimmed&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+</p>
 
 <p align="center">
-  <i>"The quieter you become, the more you can hear."</i><br>
-  <b>― BackTrack Linux</b>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cat-cactus&theme=github_dark" alt="Profile Summary"/>
 </p>
 
 ---
